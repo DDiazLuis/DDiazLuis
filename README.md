@@ -1,6 +1,6 @@
 Hi, I'm Luis, An IT Professional 
   
-https://linkedin.com/in/LuisDiaz
+https://linkedin.com/in/Ddiazluis
 
 <h2>👨‍💻 Information Technology Projects
 
