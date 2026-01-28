@@ -9,11 +9,10 @@ https://linkedin.com/in/LuisDiaz
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/DDiazLuis/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/DDiazLuis/post-install-config)
+
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DDiazLuis/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DDiazLuis/configure-ad)
+
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DDiazLuis/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
