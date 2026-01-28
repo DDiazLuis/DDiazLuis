@@ -1,6 +1,6 @@
-<h1>Hi, I'm Luis, an IT Professional 
+Hi, I'm Luis, An IT Professional 
   
-  <a href="https://linkedin.com/in/LuisDiaz>IT Professional
+"https://linkedin.com/in/LuisDiaz>IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
