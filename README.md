@@ -1,8 +1,8 @@
 Hi, I'm Luis, An IT Professional 
   
-"https://linkedin.com/in/LuisDiaz>IT Professional
+https://linkedin.com/in/LuisDiaz>IT Professional
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects
 
 
 
