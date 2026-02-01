@@ -25,7 +25,7 @@ I'm actively pursuing oppotunities in IT Support, Help Desk, Desktop Support, or
 
 [Prerequisites & osTicket installation](https://github.com/DDiazLuis/prerequisites-osticket-installation)
 
-[Post installation Configuaration]
+[Post installation Configuration]
 
 [osTicket: Ticket Lifecycle Examples](https://github.com/DDiazLuis/ticket-lifecycle)
 
