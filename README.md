@@ -1,6 +1,10 @@
-Hi, I'm Luis, An IT Professional 
+Hi, I'm Luis, An IT Professional
+
+I'm an entry-level IT Professional with hands-on experience supporting end users, troubleshooting hardware and software issues, and working within ticket-based enviroments. I recently completed the Coursecareers Information Technology program, where i worked through real-world IT scenarios designed to simulate a professionla help desk and enterprise IT enviroment.
+
+I'm actively pursuing oppotunities in IT Support, Help Desk, Desktop Support, or Technician roles, where i can contribute immediately while continuing the grow my technical skill set.
   
-https://linkedin.com/in/Ddiazluis
+
 
 <h2>👨‍💻 Information Technology Projects
 
