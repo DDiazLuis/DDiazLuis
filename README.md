@@ -26,7 +26,7 @@ I'm actively pursuing oppotunities in IT Support, Help Desk, Desktop Support, or
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DDiazLuis/ticket-lifecycle)
 - <b>Microsoft Azure</b>
 
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DDiazLuis/azure-network-protocols)
+ - [Active Directory - An introduction to introductory lab in the cloud](https://github.com/DDiazLuis/Active-directory-introduction)
 
 <h2>🤳Connect with me:</h2>
 
