@@ -22,7 +22,7 @@ I'm actively pursuing oppotunities in IT Support, Help Desk, Desktop Support, or
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-[Prerequisites & osTicket installation](https://github.com/DDiazLuis/prerequisites&osTicket installation
+[Prerequisites & osTicket installation](https://github.com/DDiazLuis/prerequisites & osTicket installation)
 
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DDiazLuis/ticket-lifecycle)
 - <b>Microsoft Azure</b>
