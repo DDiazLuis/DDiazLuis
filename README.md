@@ -17,7 +17,7 @@ I'm actively pursuing oppotunities in IT Support, Help Desk, Desktop Support, or
 
 👨‍💻 Information Technology Projects
 
-osTicket (Help Desk Ticketing System)
+<h2>osTicket (Help Desk Ticketing System)
 
 [Prerequisites & osTicket installation](https://github.com/DDiazLuis/prerequisites-osticket-installation)
 
