@@ -7,20 +7,15 @@ I'm actively pursuing oppotunities in IT Support, Help Desk, Desktop Support, or
 <h2> Technical Skills
 
 <h2> Operating Systems 
-  - Windows 10 & 11
-  
-  - macOS (end-user support)
+- Windows 10 & 11
+- macOS (end-user support)
   
 
 <h2> Networking Fundamentals 
-    -TCP/IP
-  
+    - TCP/IP
     - DNS & DHCP
-    
     - IP Addressing (Private vs Public)
-    
     - Basic LAN/WAN concepts
-    
     - Network troubleshooting fundamentals 
 
     
