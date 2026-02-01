@@ -15,13 +15,9 @@ I'm actively pursuing oppotunities in IT Support, Help Desk, Desktop Support, or
 <h2> Security Fundamentals: User access control, MFA concepts, Least privilege best practices, Security awareness fundamentals 
   
 
-<h2>👨‍💻 Information Technology Projects
+👨‍💻 Information Technology Projects
 
-
-
-
-
-- <b>osTicket (Help Desk Ticketing System)</b>
+osTicket (Help Desk Ticketing System)
 
 [Prerequisites & osTicket installation](https://github.com/DDiazLuis/prerequisites-osticket-installation)
 
