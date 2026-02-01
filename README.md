@@ -6,32 +6,36 @@ I'm actively pursuing oppotunities in IT Support, Help Desk, Desktop Support, or
   
 <h2> Technical Skills
 
-<h2> Operating Systems 
-- Windows 10 & 11
-- macOS (end-user support)
+<h2> Operating Systems
+  
+ Windows 10 & 11
+ macOS (end-user support)
   
 
 <h2> Networking Fundamentals 
-    - TCP/IP
-    - DNS & DHCP
-    - IP Addressing (Private vs Public)
-    - Basic LAN/WAN concepts
-    - Network troubleshooting fundamentals 
+  
+    TCP/IP
+    DNS & DHCP
+    IP Addressing (Private vs Public)
+    Basic LAN/WAN concepts
+    Network troubleshooting fundamentals 
 
     
   <h2> IT Support & Administration 
-  - Active Directory (user & group management) 
-  - Password resets & account unlocks 
-  - Ticketing systems (incidents & request workflows) 
-  - Remote Desktop & end-user support
-  - Hardware & software troubleshooting 
+    
+  Active Directory (user & group management) 
+  Password resets & account unlocks 
+  Ticketing systems (incidents & request workflows) 
+  Remote Desktop & end-user support
+  Hardware & software troubleshooting 
 
 
-  <hs> Security Fundamentals 
-  - User access control
-  - MFA concepts
-  - Least privilege best practices
-  - Security awareness fundamentals 
+  <h2> Security Fundamentals
+    
+User access control
+MFA concepts
+Least privilege best practices
+Security awareness fundamentals 
   
 </h2>
 <h2>👨‍💻 Information Technology Projects
