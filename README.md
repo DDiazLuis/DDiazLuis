@@ -15,7 +15,7 @@ I'm actively pursuing oppotunities in IT Support, Help Desk, Desktop Support, or
 <h2> Security Fundamentals: User access control, MFA concepts, Least privilege best practices, Security awareness fundamentals 
   
 
-👨‍💻 Information Technology Projects
+<h2>👨‍💻 Information Technology Projects
 
 <h2>osTicket (Help Desk Ticketing System)
 
