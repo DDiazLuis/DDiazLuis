@@ -17,7 +17,7 @@ I'm actively pursuing oppotunities in IT Support, Help Desk, Desktop Support, or
 
 <h2>👨‍💻 Information Technology Projects
 
-<h2> osTicket (Help Desk Ticketing System)
+<h2> osTicket - Ticket Lifecycle: Intake Through Resolution (Help Desk Ticketing System)
 
 [osTicket: Ticket Lifecycle](https://github.com/DDiazLuis/ticket-lifecycle)
 
