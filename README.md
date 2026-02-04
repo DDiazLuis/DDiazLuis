@@ -15,14 +15,17 @@ I'm actively pursuing oppotunities in IT Support, Help Desk, Desktop Support, or
 <h2> Security Fundamentals: User access control, MFA concepts, Least privilege best practices, Security awareness fundamentals 
   
 
-<h2>👨‍💻 Information Technology Projects
+<h2>👨‍💻 Information Technology Project
 
 <h2> osTicket - Ticket Lifecycle: Intake Through Resolution (Help Desk Ticketing System)
 
 [osTicket: Ticket Lifecycle](https://github.com/DDiazLuis/ticket-lifecycle)
 
 
- - [Active Directory - An introduction to introductory lab in the cloud](https://github.com/DDiazLuis/Active-directory-introduction)
+<h2>🖥️ Microsoft Active Directory Projects</h2>
+
+
+[Active Directory - An introduction to introductory lab in the cloud](https://github.com/DDiazLuis/Active-directory-introduction)
 
 <h2>🤳Connect with me:</h2>
 
