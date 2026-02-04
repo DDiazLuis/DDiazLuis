@@ -19,7 +19,7 @@ I'm actively pursuing oppotunities in IT Support, Help Desk, Desktop Support, or
 
 <h2> osTicket (Help Desk Ticketing System)
 
-[osTicket: Ticket Lifecycle Examples](https://github.com/DDiazLuis/ticket-lifecycle)
+[osTicket: Ticket Lifecycle](https://github.com/DDiazLuis/ticket-lifecycle)
 
 
  - [Active Directory - An introduction to introductory lab in the cloud](https://github.com/DDiazLuis/Active-directory-introduction)
