@@ -22,7 +22,7 @@ I'm actively pursuing oppotunities in IT Support, Help Desk, Desktop Support, or
 [osTicket: Ticket Lifecycle](https://github.com/DDiazLuis/ticket-lifecycle)
 
 
-<h2>🖥️ Microsoft Active Directory Projects</h2>
+<h2>🖥️ Microsoft Active Directory Project</h2>
 
 
 [Active Directory - An introduction to introductory lab in the cloud](https://github.com/DDiazLuis/Active-directory-introduction)
